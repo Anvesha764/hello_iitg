@@ -1,4 +1,4 @@
 # hello_iitg
 first repository
-#iitg123
-##heading 2
+# iitg123
+## heading 2
